@@ -1,5 +1,6 @@
 package app.regist.regist.Domain;
 
+import app.regist.regist.enums.AppUserRole;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
